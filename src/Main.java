@@ -8,7 +8,6 @@ public class Main {
 
         System.out.println(random.random);
 
-        System.out.println(alt.random);
 
         System.out.println("haha gay");
 
