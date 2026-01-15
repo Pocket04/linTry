@@ -4,6 +4,9 @@ public class Main {
     public static void main(String[] args) {
 
         Alt alt = new Alt();
+        Random random = new Random();
+
+        System.out.println(random.random);
 
         System.out.println(alt.random);
 
