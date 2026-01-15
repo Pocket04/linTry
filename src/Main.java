@@ -3,6 +3,10 @@
 public class Main {
     public static void main(String[] args) {
 
+        Alt alt = new Alt();
+
+        System.out.println(alt.random);
+
         System.out.println("haha gay");
 
     }
