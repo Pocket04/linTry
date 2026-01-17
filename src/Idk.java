@@ -1,5 +1,5 @@
 public class Idk {
 
-    public final String idontknow = "random";
+    public final String idontknow = "aaaaaaaaaa";
 
 }
